@@ -1,17 +1,24 @@
-<div align="center">
-<h1 align="center">Hola, soy <p> Andres </p> 👋</h1>
-</div>
-<!--
-**Lopez-andres/Lopez-andres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola! Soy Andrés
 
-Here are some ideas to get you started:
+### Estudiante universitario apasionado por la programación. 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy cursando el 3er semestre de mi carrera universitaria, estoy cursando en el lenguaje de programación **Java**. Además, estoy realizando un curso en **Udemy** para mejorar mis conocimientos en los lenguajes que he visto a lo largo de mi carrera, como **C, C++, Python y actualmente Java**.
+
+### 🛠 Habilidades:
+
+- **Lenguajes**: C, C++, Python, Java
+- **Tecnologías**: [Agrega las tecnologías que estás aprendiendo o te interesan]
+- **Control de versiones**: Git, GitHub
+- **Otros**: [Herramientas adicionales como IDEs o frameworks]
+
+### 📚 Actualmente Estudiando:
+
+- **Programacion Orientada a Eventos**: Ampliando mis conocimientos en programación orientada a objetos y mejores prácticas con Java.
+- **Curso en Udemy**: Enfocado en profundizar en los lenguajes C, C++, Python y Java para dominar mejor cada uno.
+
+### 📫 Contacto:
+
+- **Correo**: [penalopezandresmauricio@gmail.com](Andrés:penalopezandresmauricio@gmail.com)
+- **LinkedIn**: [Tu Nombre en LinkedIn](enlace a tu perfil)
+- **Portafolio**: [www.tusitio.com](enlace a tu sitio web)
+
