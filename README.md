@@ -1,10 +1,11 @@
-# 👋 Hi! I'm Andrés
+# 👋Hi! I'm Andrés
 
-🎓 **University student passionate about programming.**  
-I’m currently in my **third semester**, specializing in **Java**, while also solidifying my knowledge of **C, C++, and Python** through a **Udemy** course.
+🎓 University student passionate about programming and databases.
+I’m currently in my fourth semester, specializing in Java, while also enhancing my skills in C, C++, and Python through a Udemy course.
 
-I consider myself a **self-taught learner** who loves exploring new technologies shaping the digital world. I'm always looking for opportunities to improve my skills and deepen my understanding of key tools in the tech industry.
+📊 Additionally, I’m delving into database management with PostgreSQL, building a strong foundation for creating efficient, scalable backend systems.
 
+I’m a self-taught learner who thrives on exploring innovative technologies and solving real-world problems. Constantly seeking opportunities to grow, I aim to master the tools shaping the tech industry.
 ---
 
 ## 🛠 Skills
@@ -16,15 +17,14 @@ I consider myself a **self-taught learner** who loves exploring new technologies
 ---
 
 ## 📚 Currently Studying
-- **Event-Driven Programming**:  
-  Applying Java concepts to develop interactive interfaces and real-time systems.
-  
-- **Discrete Mathematics 2**:  
-  Focused on graphs, combinatorics, and algorithms—essential for optimization and data structures.
-  
-- **Operating Systems**:  
-  Studying process management, memory, and resource handling, which are fundamental for efficient software development.
+-- **Event-Driven Programming**
+Applying Java concepts to develop interactive interfaces and real-time systems.
 
+-- **Fundamentals of Networks**
+Exploring the principles of networking, including protocols, architecture, and data communication, which are critical for modern connectivity solutions.
+
+-- **Databases with PostgreSQL**
+Learning to design, manage, and optimize relational databases, emphasizing scalability and performance in real-world applications.
 ---
 
 ## 📫 Contact
