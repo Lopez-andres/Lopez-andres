@@ -25,7 +25,7 @@ Exploring the principles of networking, including protocols, architecture, and d
 
 -- **Databases with PostgreSQL**
 Learning to design, manage, and optimize relational databases, emphasizing scalability and performance in real-world applications.
----
+
 
 ## 📫 Contact
 
