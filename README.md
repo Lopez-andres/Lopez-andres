@@ -1,12 +1,12 @@
-# 👋Hi! I'm Andrés
+# 👋Hello! I'm Andres, I'm 18 years old, I'm Colombian.
 
-🎓 University student passionate about programming and databases.
-I’m currently in my fourth semester, specializing in Java, while also enhancing my skills in C, C++, and Python through a Udemy course.
+🎓 I am a student at the Universidad del Valle, I am in the fourth semester of the technology degree in software development, I am someone passionate about programming and new technologies on the market.
 
-📊 Additionally, I’m delving into database management with PostgreSQL, building a strong foundation for creating efficient, scalable backend systems.
+I am currently studying event-oriented programming with Java and interfaces like swing, I am also improving my projects to create a more robust portfolio
 
-I’m a self-taught learner who thrives on exploring innovative technologies and solving real-world problems. Constantly seeking opportunities to grow, I aim to master the tools shaping the tech industry.
----
+📊 Additionally, I am delving into database management with PostgreSQL, building a solid foundation to create efficient and scalable backend systems.
+
+I am a self-taught learner who loves exploring innovative technologies and solving real-world problems. Constantly seeking opportunities to grow, my goal is to master the tools that shape the technology industry.
 
 ## 🛠 Skills
 - **Programming languages**:  
