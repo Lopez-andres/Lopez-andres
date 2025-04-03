@@ -1,4 +1,4 @@
-# 👋Hello! I'm Andres, I'm 18 years old, I'm Colombian.
+# 👋Hello! I'm Andres, I'm 18 years old
 
 🎓 I am a student at the Universidad del Valle, I am in the fourth semester of the technology degree in software development, I am someone passionate about programming and new technologies on the market.
 
