@@ -36,7 +36,7 @@ Learning to design, manage, and optimize relational databases, emphasizing scala
   [www.linkedin.com/in/andres-lopez-b37b93217](www.linkedin.com/in/andres-lopez-b37b93217)
 
 - **Portfolio**:  
-  
+  [https://github.com/Lopez-andres?tab=repositories](https://github.com/Lopez-andres?tab=repositories)
 
 ---
 
