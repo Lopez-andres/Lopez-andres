@@ -1,44 +1,62 @@
-# 👋Hello! I'm Andres, I'm 18 years old
+<h1 align="center">👋 Hello, I'm Andres!</h1>
 
-🎓 I am a student at the Universidad del Valle, I am in the fourth semester of the technology degree in software development, I am someone passionate about programming and new technologies on the market.
-
-I am currently studying event-oriented programming with Java and interfaces like swing, I am also improving my projects to create a more robust portfolio
-
-📊 Additionally, I am delving into database management with PostgreSQL, building a solid foundation to create efficient and scalable backend systems.
-
-I am a self-taught learner who loves exploring innovative technologies and solving real-world problems. Constantly seeking opportunities to grow, my goal is to master the tools that shape the technology industry.
-
-## 🛠 Skills
-- **Programming languages**:  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-- **Version Control**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+<p align="center">
+  🎓 Software Development Student | 💻 Passionate Programmer | 🌐 Tech Enthusiast
+</p>
 
 ---
 
-## 📚 Currently Studying
--- **Event-Driven Programming**
-Applying Java concepts to develop interactive interfaces and real-time systems.
+## 🧑‍🎓 About Me
 
--- **Fundamentals of Networks**
-Exploring the principles of networking, including protocols, architecture, and data communication, which are critical for modern connectivity solutions.
+Hi! I'm **Andres**, 18 years old, currently in my **4th semester** of Software Development Technology at **Universidad del Valle**.  
+I'm passionate about programming and constantly exploring **cutting-edge technologies**.
 
--- **Databases with PostgreSQL**
-Learning to design, manage, and optimize relational databases, emphasizing scalability and performance in real-world applications.
+💡 Currently focusing on:
 
-
-## 📫 Contact
-
-- **Email**:  
-  [penalopezandresmauricio@gmail.com](penalopezandresmauricio@gmail.com)
-
-- **LinkedIn**:  
-  [www.linkedin.com/in/andres-lopez-b37b93217](www.linkedin.com/in/andres-lopez-b37b93217)
-
-- **Portfolio**:  
-  [https://github.com/Lopez-andres?tab=repositories](https://github.com/Lopez-andres?tab=repositories)
+- 🎯 **Event-Driven Programming** with **Java (Swing interfaces)**
+- 💾 **Database Management** with **PostgreSQL**
+- 🔧 Building robust and real-world applicable **backend systems**
+- 🧠 Always learning new skills and enhancing my **portfolio projects**
 
 ---
 
-Thank you for visiting my GitHub profile!  
-Feel free to explore my projects and connect with me.
+## 🛠 Tech Stack & Tools
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗃 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 What I'm Currently Learning
+
+| Area                     | Focus                                                                 |
+|--------------------------|-----------------------------------------------------------------------|
+| 🧩 Event-Driven Programming | Building responsive interfaces and real-time apps using Java      |
+| 🌐 Fundamentals of Networks  | Networking protocols, architectures, and communication basics         |
+| 🗄 PostgreSQL & Databases   | Efficient database design, queries, scalability and optimization        |
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  📧 Email: <a href="mailto:penalopezandresmauricio@gmail.com">penalopezandresmauricio@gmail.com</a> <br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/andres-lopez-b37b93217">andres-lopez-b37b93217</a> <br>
+  🗂️ Portfolio: <a href="https://github.com/Lopez-andres?tab=repositories">GitHub Projects</a> <br>
+  🎥 TikTok: <a href="https://www.tiktok.com/@lopez_andres1">@lopez_andres1</a> 
+</p>
+
+---
+
+<p align="center">
+  🚀 Thank you for visiting my profile!  
+  <br>Feel free to check out my projects and reach out 📩
+</p>
+
