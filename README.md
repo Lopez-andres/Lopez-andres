@@ -50,7 +50,7 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
   📧 Email: <a href="mailto:penalopezandresmauricio@gmail.com">penalopezandresmauricio@gmail.com</a> <br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/andres-lopez-b37b93217">andres-lopez-b37b93217</a> <br>
   🗂️ Portfolio: <a href="https://github.com/Lopez-andres?tab=repositories">GitHub Projects</a> <br>
-  🎥 TikTok: <a href="https://www.tiktok.com/@lopez_andres1">@lopez_andres1</a> 
+  🎥 TikTok: <a href="https://www.tiktok.com/@lopez_andres1?_t=ZS-8wu511XEB6o&_r=1">@lopez_andres1</a> 
 </p>
 
 ---
