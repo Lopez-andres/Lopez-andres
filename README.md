@@ -13,10 +13,11 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
 
 💡 Currently focusing on:
 
-- 🎯 **Event-Driven Programming** with **Java (Swing interfaces)**
-- 💾 **Database Management** with **PostgreSQL**
-- 🔧 Building robust and real-world applicable **backend systems**
-- 🧠 Always learning new skills and enhancing my **portfolio projects**
+- 👨‍💻 Developing scalable and maintainable applications in **Java**
+- ⚙️ Applying **algorithmic thinking** to solve real-world software problems
+- 🔢 Understanding **numerical methods** to support software design and analysis
+- 💾 Building **relational databases** and optimizing data access with **PostgreSQL**
+- 🎓 Exploring topics from **professional and complementary electives** to expand my knowledge
 
 ---
 
@@ -36,11 +37,13 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
 
 ## 📚 What I'm Currently Learning
 
-| Area                     | Focus                                                                 |
-|--------------------------|-----------------------------------------------------------------------|
-| 🧩 Event-Driven Programming | Building responsive interfaces and real-time apps using Java      |
-| 🌐 Fundamentals of Networks  | Networking protocols, architectures, and communication basics         |
-| 🗄 PostgreSQL & Databases   | Efficient database design, queries, scalability and optimization        |
+| Area                         | Focus                                                                 |
+|------------------------------|-----------------------------------------------------------------------|
+| 🧮 Numerical Methods          | Solving equations, approximations, and applied calculus in programming |
+| 🧠 Algorithm Design           | Recursive strategies, dynamic programming, and complexity analysis     |
+| 👨‍💻 Software Engineering I     | Software construction, modular design, and team collaboration          |
+| 🎓 Professional Electives     | In-depth exploration of selected tech or business topics               |
+| 🧩 Complementary Skills       | Broader interdisciplinary learning to support software projects        |
 
 ---
 
