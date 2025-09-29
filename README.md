@@ -61,9 +61,15 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
 
 ---
 
-<br clear="both">
+<h2 align="left">🐍 My Contributions Snake</h2>
 
-<img src="https://raw.githubusercontent.com/Lopez-andres/Lopez-andres/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lopez-andres/Lopez-andres/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lopez-andres/Lopez-andres/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Lopez-andres/Lopez-andres/output/snake.svg" width="90%" />
+  </picture>
+</p>
 
 ---
 
@@ -71,4 +77,5 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
   🚀 Thank you for visiting my profile!  
   <br>Feel free to check out my projects and reach out 📩
 </p>
+```
 
