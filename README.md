@@ -8,7 +8,7 @@
 
 <h2 align="left">🧑‍🎓 About Me</h2>
 
-Hi! I'm **Andres**, 18 years old, currently in my **5th semester** of Software Development Technology at **Universidad del Valle**.  
+Hi! I'm **Andres**, 18 years old, currently in my **6th semester** of Software Development Technology at **Universidad del Valle**.  
 I'm passionate about programming and constantly exploring **cutting-edge technologies**.
 
 ---
