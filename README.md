@@ -1,45 +1,57 @@
 <h1 align="center">👋 Hello, I'm Andres!</h1>
 
 <p align="center">
-  🎓 Software Development Student | 💻 Passionate Programmer | 🌐 Tech Enthusiast
+  🎓 Software Development Student | 🖥️ Systems Engineering Student | 🎥 Tech Content Creator
 </p>
 
 ---
 
 <h2 align="left">🧑‍🎓 About Me</h2>
 
-Hi! I'm **Andres**, 19 years old, currently in my **6th semester** of Software Development Technology at **Universidad del Valle**.  
-I'm passionate about programming and constantly exploring **cutting-edge technologies**.
+Hi! I'm **Andres**. I'm in my **final semester** of Software Development Technology at **Universidad del Valle** (Sede Tuluá), and at the same time I'm in my **fifth semester** of Systems Engineering at the same university.
+
+I also create **tech-related content on TikTok**, where I share what I learn about programming and technology in a simple, accessible way.
 
 ---
 
-<h2 align="left">📊 My GitHub Stats</h2>
+<h2 align="left">📌 Currently</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lopez-andres&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lopez-andres&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🎓 Finishing my Software Development degree
+- 🖥️ Studying Systems Engineering
+- 🎥 Creating tech content on TikTok
+- 📚 Building practical programming skills through ongoing courses
 
 ---
 
 <h2 align="left">🛠 Tech Stack & Tools</h2>
 
+<p align="left"><strong>Languages</strong></p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
+</div>
+
+<p align="left"><strong>Frameworks & Libraries</strong></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</div>
+
+<p align="left"><strong>Databases</strong></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
+
+<p align="left"><strong>DevOps & Tools</strong></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </div>
 
 ---
@@ -47,16 +59,10 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
 <h2 align="left">📫 Let's Connect</h2>
 
 <div align="left">
-  <a href="mailto:penalopezandresmauricio@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
   <a href="https://www.linkedin.com/in/andres-lopez-b37b93217">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/Lopez-andres?tab=repositories">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="https://www.tiktok.com/@lopez_andres1?_t=ZS-8wu511XEB6o&_r=1">
+  <a href="https://www.tiktok.com/@lopez_andres1">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
   </a>
 </div>
@@ -79,5 +85,3 @@ I'm passionate about programming and constantly exploring **cutting-edge technol
   🚀 Thank you for visiting my profile!  
   <br>Feel free to check out my projects and reach out 📩
 </p>
-```
-
